@@ -1,0 +1,4 @@
+{
+	attr1: "toto",
+	attr2: "titi"
+}
