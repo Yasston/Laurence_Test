@@ -1,4 +1,5 @@
 {
 	attr1: "toto",
-	attr2: "titi"
+	attr2: "titi",
+	attr3: "tata"
 }
